@@ -82,7 +82,6 @@ ORDER BY date;
 - Matplotlib/Seaborn – for inline plots (optional in `.ipynb`)
 
 ---
----
 
 🧷 Credits
 
@@ -92,6 +91,7 @@ ORDER BY date;
 
 🗓 Date: June 2025
 
+---
 
 📎 Connect With Me
 
