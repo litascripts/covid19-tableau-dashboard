@@ -85,11 +85,13 @@ ORDER BY date;
 ---
 
 🧷 Credits
+
 📂 Dataset: [Our World in Data (via Kaggle/CSV)](https://docs.owid.io/projects/covid/en/latest/dataset.html)
 
 💻 Author: Lita
 
 🗓 Date: June 2025
+
 
 📎 Connect With Me
 
