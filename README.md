@@ -2,7 +2,7 @@
 # 📊 COVID-19 Dashboard Project
 
 ## 📁 Project Overview
-This project presents a comprehensive **COVID-19 Dashboard** using global and Indonesian data, focused on visualizing key metrics such as new cases and total deaths. The project is designed for insights on pandemic trends and vaccine rollout across regions, especially Indonesia.
+This project presents a comprehensive **COVID-19 Dashboard** using global data, focused on visualizing key metrics such as new cases and total deaths. The project is designed for insights on pandemic trends rollout across regions.
 
 ---
 
