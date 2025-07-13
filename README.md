@@ -2,7 +2,7 @@
 # 📊 COVID-19 Dashboard Project
 
 ## 📁 Project Overview
-This project presents a comprehensive **COVID-19 Dashboard** using global and Indonesian data, focused on visualizing key metrics such as new cases, vaccinations, and total deaths. The project is designed for insights on pandemic trends and vaccine rollout across regions, especially Indonesia.
+This project presents a comprehensive **COVID-19 Dashboard** using global and Indonesian data, focused on visualizing key metrics such as new cases and total deaths. The project is designed for insights on pandemic trends and vaccine rollout across regions, especially Indonesia.
 
 ---
 
@@ -61,12 +61,10 @@ ORDER BY date;
 
 ## 📊 Dashboard Features
 
-- Top Vaccinated Countries
-- New Daily Cases in Indonesia
-- Vaccination Trends Over Time
-- Total vs New Cases & Deaths
-- IMPACT View: Region-by-region analysis with filters by date, location, and metrics
-
+- Top Country by Total Case
+- Covid-19 Trend by Over Time
+- Global Case Distribution
+  
 ---
 📊 Tableau Dashboard
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/lita/viz/COVID-19GlobalDashboard_17504317088400/COVID-19GlobalDashboard)
